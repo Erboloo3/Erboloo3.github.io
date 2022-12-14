@@ -1,0 +1,30 @@
+body{
+    background-color:#90bcc5;
+}
+/* 头部样式 */
+.header {
+    background-color: #75d8df;
+    padding: 20px;
+    text-align: center;
+  }
+/* 导航条 */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(11, 173, 171);
+  }
+   
+  /* 导航链接 */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+   
+  /* 链接 - 修改颜色 */
+  .topnav a:hover {
+    background-color: rgb(28, 204, 224);
+    color: rgb(8, 83, 144);
+}
